@@ -1,0 +1,5 @@
+# Thirupathi ELuvaka
+
+I am a driven and adaptable individual with a strong educational foundation in computer science and engineering. My academic journey includes a B.Tech in CSE from Rajiv Gandhi University of Knowledge Technologies, where I achieved a commendable CGPA of 7.8. With a keen interest in technology and a desire to contribute to the field, I have taken on impressive projects, such as the development of a system for social distancing and facial mask detection using Python, image processing, and TensorFlow. <br>I have also showcased my web development skills by creating a College Fest Website. My technical prowess extends to languages like C, Java, and Python, as well as proficiency in web technologies, databases, and cloud platforms. Furthermore, my work experience at TATA CONSULTANCY SERVICES as a Systems Engineer and my internship at GOALSTREET demonstrate my practical abilities in automation and regression algorithms. With a strong foundation in both hard and soft skills, I am well-equipped to excel in the ever-evolving field of technology.
+
+! [Myphoto](/Thiru.jpeg)

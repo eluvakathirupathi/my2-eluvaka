@@ -17,3 +17,4 @@ It's a **Water Sport Heaven.** If you like water, Goa has it all. This Indian st
 * Chineese
 * North Indian
 
+[MyBio](/MyStats.md)

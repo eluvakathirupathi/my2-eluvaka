@@ -18,3 +18,14 @@ It's a **Water Sport Heaven.** If you like water, Goa has it all. This Indian st
 * North Indian
 
 [MyBio](/MyStats.md)
+
+***
+### Table Describing importance of sports
+
+Sports play a very vital role & occupy a large portion of our life. It not Only makes us happy but even keeps of us fit & makes our body strong. Sports help us improve our lifestyle & helps in providing us a fit body. Apart from having a fit body sports also rejuvenates our body &relaxes it.Ethics such as leadership, positivity & a good behaviour are achieved through sports.
+
+|Sport|Reason|Hours|
+|---|---|---|
+|Cricket| It requires both individual skill and nerve, as well as selfless teamwork|1|
+|Football|Football teaches cooperation and team work, helps develop positive social skills and teaches respect for others| 1.5|
+|VolleyBall|Improves muscular system|1|

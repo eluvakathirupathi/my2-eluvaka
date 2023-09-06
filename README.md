@@ -29,3 +29,10 @@ Sports play a very vital role & occupy a large portion of our life. It not Only 
 |Cricket| It requires both individual skill and nerve, as well as selfless teamwork|1|
 |Football|Football teaches cooperation and team work, helps develop positive social skills and teaches respect for others| 1.5|
 |VolleyBall|Improves muscular system|1|
+
+***
+### Quotes
+
+> A person who never made a mistake never tried anything new. <br>-*Albert Einstein*
+
+> Dream, dream, dream. Dreams transform into thoughts and thoughts result in action. <br>-*A. P. J. Abdul Kalam*

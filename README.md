@@ -36,3 +36,17 @@ Sports play a very vital role & occupy a large portion of our life. It not Only 
 > A person who never made a mistake never tried anything new. <br>-*Albert Einstein*
 
 > Dream, dream, dream. Dreams transform into thoughts and thoughts result in action. <br>-*A. P. J. Abdul Kalam*
+
+***
+### Code Fencing
+
+> Forcing SSL and WWW using .htaccess
+
+[Click to redirect to Stackoverflow](https://stackoverflow.com/questions/24711083/forcing-ssl-and-www-using-htaccess)
+
+```
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}{REQUEST_URI}
+```
+[Click to redirect to CSS tricks page for code snippet](https://css-tricks.com/snippets/htaccess/force-https/)
